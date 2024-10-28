@@ -1,0 +1,14 @@
+[package]
+name = "typst-latex-math-converter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clipboard-rs = "0.2.1"
+eframe = "0.29.1"
+egui = "0.29.1"
+mathjax_svg = "3.1.2"
+resvg = "0.44.0"
+tiny-skia = "0.11.4"
+tiny-skia-path = "0.11.4"
+usvg = "0.44.0"
